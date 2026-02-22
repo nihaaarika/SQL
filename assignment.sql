@@ -135,3 +135,4 @@ FROM (
     FROM order_items
     GROUP BY order_id
 ) t;
+
