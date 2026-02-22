@@ -1,7 +1,0 @@
-CREATE TABLE student(
- Id INT PRIMARY KEY,
- Name VARCHAR (50),
- AGE INT NOT NULL
- );
- 
- 
